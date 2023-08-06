@@ -1,0 +1,11 @@
+# Query: villageDelight
+
+4 results - 2 files
+
+app.json:
+  3:   "displayName": "VillageDelight"
+
+android\app\src\main\assets\index.android.bundle:
+   383: __d(function(t,a,e,i,n,d,l){n.exports={name:"guzel",displayName:"VillageDelight"}},377,[]);
+  1022: ⟪ 1336 characters skipped ⟫1l-131.3-28.5 36.8-20.7c-19.5-11.5-43.5-20-70-24.8v-43c46.2 5.5 87.7 19.5 120.3 39.3l35-19.8L448 291z"})}),(0,r(d[5]).jsx)(t.Text,{style:Object.assign({},n.default.headerText,{fontSize:24}),children:"VillageDelight"})]})}),(0,r(d[5]).jsxs)(t.View,{style:n.default.menuOptions,children:[(0,r(d[5]).jsxs)(t.TouchableOpacity,{style:n.default.menuOption,onPress:function(){return l.navigate('Dashboard')},children:[(0,r(d[5]).jsx)(r(d[6]).FontAwesomeIcon,{icon:r(d[7]).faHome}),(0,r(d[5]).jsx)(t.Text,{style:n.default.menuText,children:"Home"}),(0,r(d[5]).jsx)(r(d[6]).FontAwesomeIcon,{color:"#ccc",icon:r(d[7]).faChevronRight})]}),(0,r(d[5]).jsxs)(t.TouchableOpacity,{style:n.default.menuOption,onPress:function(){return l.navigate('Wishlist')},children:[(0,r(d[5]).jsx)(r(d[6]).FontAwesomeIcon,{icon:r(d[7]).faHeart}),(0,r(d[5]).jsx)(t.Text,{style:n.default.menuText,children:"Wishlist"}),(0,r(d[5]).jsx)(r(d[6]).FontAwesomeIcon,{color:"#ccc",icon:r(d[7]).faChevronRight})]}),(0,r(d[5]).jsxs)(t.TouchableOpacity,{style:n.default.menuOption,onPress:function(){return l.navigate('Cart')},children:[(0,r(d[5]).jsx)(r(d[6]).FontAwesomeIcon,{icon:r(d[7]).faCartShopping}),(0,r(d[5]).jsx)(t.Text,{style:n.def
+  1266: ⟪ 1405 characters skipped ⟫5.7 103v-340l68-33.2v384zM448 291l-131.3-28.5 36.8-20.7c-19.5-11.5-43.5-20-70-24.8v-43c46.2 5.5 87.7 19.5 120.3 39.3l35-19.8L448 291z"})}),(0,r(d[7]).jsx)(t.Text,{style:o.default.headerText,children:"VillageDelight"})]}),!c&&(0,r(d[7]).jsxs)(t.Pressable,{onPress:function(){return s.navigate('Cart')},style:{flexDirection:'row',width:20,height:20,marginHorizontal:10},children:[(0,r(d[7]).jsx)(t.Image,{style:{width:20,height:20},source:r(d[10])}),u.length>0&&(0,r(d[7]).jsx)(t.Text,{style:{backgroundColor:'red',color:'#fff',width:15,height:15,top:-7,right:7,textAlign:'center',borderRadius:10,fontSize:10},children:u.length})]})]})});e.Header=c},1260,[124,1,674,3,668,915,934,177,670,913,1261]);
